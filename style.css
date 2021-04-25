@@ -1,0 +1,23 @@
+#heading{
+
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+body{
+
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+.nameofobjects{
+
+    color: white;;
+}
+
+#camera{
+
+    width: 500px;
+    height: 350px;
+}
